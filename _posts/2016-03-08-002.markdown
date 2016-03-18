@@ -2,7 +2,6 @@
 layout: post
 title:  "002"
 date:   2016-03-08 10:20:05 -0600
-categories: weekly photo
 ---
 
 ![002]({{ site.url }}{{ site.baseurl  }}/photos/002.jpg)
