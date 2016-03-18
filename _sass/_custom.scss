@@ -1,3 +1,5 @@
+$maincolor: #5AC2CE;
+
 html {
   body {
     .wrapper {
@@ -7,8 +9,12 @@ html {
       padding: 0 20px;
     }
     .site-header {
-      border-top-color: #5AC2CE;
+      border-top-color: $maincolor;
       background-color: #000;
+      a:hover {
+        text-decoration: none;
+        color: $maincolor;
+      }
       .site-title {
         color: #ececec;
         font-size: 26px;
@@ -16,6 +22,9 @@ html {
         text-transform: uppercase;
         &:visited {
           color: #fff;
+        }
+        &:hover {
+          color: $maincolor;
         }
       }
       .site-nav {
@@ -26,6 +35,20 @@ html {
           &:visited {
             color: #fff;
           }
+          &:hover {
+            color: $maincolor;
+          }
+        }
+      }
+      a.icon-link {
+        display: inline-block;
+        vertical-align: middle;
+        padding-bottom: 3px;
+        margin-right: 3px;
+        color: #fff;
+        font-size: 22px;
+        &:hover {
+          color: $maincolor;
         }
       }
     }
@@ -34,6 +57,12 @@ html {
         .post-header {
           margin-bottom: 20px;
         }
+      }
+      img.avatar {
+        display: block;
+        margin: 40px auto 0 auto;
+        width: 150px;
+        height: 150px;
       }
     }
     .post {
@@ -50,11 +79,6 @@ html {
           font-size: 12px;
           text-transform: uppercase;
           color: #999;
-        }
-      }
-      .post-content { // HIDE IMAGE FROM HOMEPAGE
-        p:first-of-type {
-          display: none;
         }
       }
     }

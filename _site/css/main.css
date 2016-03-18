@@ -138,6 +138,9 @@ html body .wrapper {
 html body .site-header {
   border-top-color: #5AC2CE;
   background-color: #000; }
+  html body .site-header a:hover {
+    text-decoration: none;
+    color: #5AC2CE; }
   html body .site-header .site-title {
     color: #ececec;
     font-size: 26px;
@@ -145,14 +148,32 @@ html body .site-header {
     text-transform: uppercase; }
     html body .site-header .site-title:visited {
       color: #fff; }
+    html body .site-header .site-title:hover {
+      color: #5AC2CE; }
   html body .site-header .site-nav .page-link {
     font-size: 13px;
     text-transform: uppercase;
     color: #fff; }
     html body .site-header .site-nav .page-link:visited {
       color: #fff; }
+    html body .site-header .site-nav .page-link:hover {
+      color: #5AC2CE; }
+  html body .site-header a.icon-link {
+    display: inline-block;
+    vertical-align: middle;
+    padding-bottom: 3px;
+    margin-right: 3px;
+    color: #fff;
+    font-size: 22px; }
+    html body .site-header a.icon-link:hover {
+      color: #5AC2CE; }
 html body .page-content .post .post-header {
   margin-bottom: 20px; }
+html body .page-content img.avatar {
+  display: block;
+  margin: 40px auto 0 auto;
+  width: 150px;
+  height: 150px; }
 html body .post {
   text-align: left;
   padding: 40px 0; }
@@ -165,8 +186,6 @@ html body .post {
     font-size: 12px;
     text-transform: uppercase;
     color: #999; }
-  html body .post .post-content p:first-of-type {
-    display: none; }
 html body .post-list {
   margin: 40px auto; }
   html body .post-list a.post-link {
@@ -224,47 +243,11 @@ html body .post-title {
 .site-nav {
   float: right;
   line-height: 56px; }
-  .site-nav .menu-icon {
-    display: none; }
   .site-nav .page-link {
     color: #111;
     line-height: 1.5; }
     .site-nav .page-link:not(:last-child) {
       margin-right: 20px; }
-  @media screen and (max-width: 600px) {
-    .site-nav {
-      position: absolute;
-      top: 9px;
-      right: 15px;
-      background-color: #fdfdfd;
-      border: 1px solid #e8e8e8;
-      border-radius: 5px;
-      text-align: right; }
-      .site-nav .menu-icon {
-        display: block;
-        float: right;
-        width: 36px;
-        height: 26px;
-        line-height: 0;
-        padding-top: 10px;
-        text-align: center; }
-        .site-nav .menu-icon > svg {
-          width: 18px;
-          height: 15px; }
-          .site-nav .menu-icon > svg path {
-            fill: #424242; }
-      .site-nav .trigger {
-        clear: both;
-        display: none; }
-      .site-nav:hover .trigger {
-        display: block;
-        padding-bottom: 5px; }
-      .site-nav .page-link {
-        display: block;
-        padding: 5px 10px;
-        margin-left: 20px; }
-        .site-nav .page-link:not(:last-child) {
-          margin-right: 0; } }
 
 /**
  * Site footer
