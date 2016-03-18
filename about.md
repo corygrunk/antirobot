@@ -10,4 +10,4 @@ My favorite camera over the years has been my Lomo LC-A, but film is expensive a
 
 I'm doing this blog to keep me posting photos and not letting them hide on my hard drive.
 
-<img src="{{site.url}}img/avatar-ricoh.png" class="avatar">
+<img src="{{site.url}}{{site.baseurl}}/img/avatar-ricoh.png" class="avatar">
