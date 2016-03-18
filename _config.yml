@@ -12,8 +12,6 @@ description: > # this means to ignore newlines until "baseurl:"
   Antirobot is Cory Grunkemeyer's photo blog.
 baseurl: "/antirobot" # the subpath of your site, e.g. /blog
 url: "http://corygrunk.com/antirobot/" # the base hostname & protocol for your site
-gems:
-   - jekyll-exiftag
 
 # Build settings
 markdown: kramdown
