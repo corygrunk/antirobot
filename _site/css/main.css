@@ -130,15 +130,6 @@ pre {
   .icon > svg path {
     fill: #828282; }
 
-dl.exif {
-  font-size: 12px; }
-  dl.exif dt {
-    display: inline-block; }
-  dl.exif dd {
-    display: inline-block;
-    padding-right: 15px;
-    font-weight: bold; }
-
 html body .wrapper {
   margin: 0 auto;
   text-align: center;
@@ -195,6 +186,14 @@ html body .post {
     font-size: 12px;
     text-transform: uppercase;
     color: #999; }
+  html body .post .post-content dl.exif {
+    font-size: 12px; }
+    html body .post .post-content dl.exif dt {
+      display: inline-block; }
+    html body .post .post-content dl.exif dd {
+      display: inline-block;
+      padding-right: 15px;
+      font-weight: bold; }
 html body .post-list {
   margin: 40px auto; }
   html body .post-list a.post-link {
