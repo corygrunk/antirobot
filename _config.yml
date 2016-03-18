@@ -10,8 +10,8 @@ title: Antirobot
 email: corygrunk@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Antirobot is Cory Grunkemeyer's photo blog.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://antirobot.com" # the base hostname & protocol for your site
+baseurl: "antirobot" # the subpath of your site, e.g. /blog
+url: "http://corygrunk.com" # the base hostname & protocol for your site
 twitter_username: corygrunk
 github_username:  corygrunk
 
