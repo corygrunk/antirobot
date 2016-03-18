@@ -1,5 +1,17 @@
 $maincolor: #5AC2CE;
 
+dl.exif {
+  font-size: 12px;
+  dt {
+    display: inline-block;
+  }
+  dd {
+    display: inline-block;
+    padding-right: 15px;
+    font-weight: bold;
+  }
+}
+
 html {
   body {
     .wrapper {

@@ -130,6 +130,15 @@ pre {
   .icon > svg path {
     fill: #828282; }
 
+dl.exif {
+  font-size: 12px; }
+  dl.exif dt {
+    display: inline-block; }
+  dl.exif dd {
+    display: inline-block;
+    padding-right: 15px;
+    font-weight: bold; }
+
 html body .wrapper {
   margin: 0 auto;
   text-align: center;
