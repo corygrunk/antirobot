@@ -5,4 +5,4 @@ date:   2016-03-01 2:29:05 -0600
 categories: weekly photo
 ---
 
-![001]({{ site.url }}photos/001.jpg)
+![001]({{ site.url }}/photos/001.jpg)
