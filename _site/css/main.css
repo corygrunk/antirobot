@@ -151,8 +151,8 @@ html body .site-header {
     color: #fff; }
     html body .site-header .site-nav .page-link:visited {
       color: #fff; }
-html body .page-content .post .post-header h1 {
-  margin-bottom: 40px; }
+html body .page-content .post .post-header {
+  margin-bottom: 20px; }
 html body .post {
   text-align: left;
   padding: 40px 0; }

@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Week 002"
+date:   2016-03-08 10:20:05 -0600
+categories: weekly photo
+---
+
+<img src="https://c2.staticflickr.com/2/1543/25594745146_087981d842_b.jpg" title="Empty">
+
+<a href="https://www.flickr.com/photos/antirobot/25594745146/"><img src="https://c2.staticflickr.com/2/1543/25594745146_087981d842_b.jpg" title="Empty"></a>
