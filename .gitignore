@@ -1,0 +1,16 @@
+SECRETS.txt
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Environment
+.env
+
+# Logs
+logs
+*.log
+log.txt

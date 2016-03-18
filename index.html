@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <div class="post-list">
+    {% for post in site.posts %}
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+        <div class="post-details">
+          <h2>{{ post.title }}</h2>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        </div>
+        {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+      </a>
+    {% endfor %}
+  </div>
+
+  <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
