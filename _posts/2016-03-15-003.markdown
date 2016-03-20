@@ -5,3 +5,18 @@ date:   2016-03-15 11:29:05 -0600
 ---
 
 ![003]({{ site.url }}{{ site.baseurl  }}/photos/003.jpg)
+
+Camera
+: Ricoh GR
+
+Lens
+: 18.3mm
+
+Aperture
+: f{% exiftag f_number.to_f, photos, 003.jpg %}
+
+Shutter
+: {% exiftag exposure_time.to_s, photos, 003.jpg %}
+
+ISO
+: {% exiftag iso_speed_ratings, photos, 003.jpg %}

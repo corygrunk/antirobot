@@ -82,6 +82,7 @@ html {
         }
       }
       .post-content {
+        dl,
         dl.exif {
           font-size: 12px;
           dt {
@@ -92,6 +93,29 @@ html {
             padding-right: 15px;
             font-weight: bold;
           }
+        }
+      }
+      .page-navigation {
+        margin-top: 40px;
+        position: relative;
+        font-size: 11px;
+        .prev, .next {
+          padding: 3px 6px;
+          text-transform: uppercase;
+          background: #eee;
+          color: #333;
+          border-radius: 3px;
+          &:hover {
+            color: #eee;
+            background: #333;
+            text-decoration: none;
+          }
+        }
+        .prev {
+          float: left;
+        }
+        .next {
+          float: right;
         }
       }
     }

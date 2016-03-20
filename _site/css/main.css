@@ -186,14 +186,35 @@ html body .post {
     font-size: 12px;
     text-transform: uppercase;
     color: #999; }
+  html body .post .post-content dl,
   html body .post .post-content dl.exif {
     font-size: 12px; }
+    html body .post .post-content dl dt,
     html body .post .post-content dl.exif dt {
       display: inline-block; }
+    html body .post .post-content dl dd,
     html body .post .post-content dl.exif dd {
       display: inline-block;
       padding-right: 15px;
       font-weight: bold; }
+  html body .post .page-navigation {
+    margin-top: 40px;
+    position: relative;
+    font-size: 11px; }
+    html body .post .page-navigation .prev, html body .post .page-navigation .next {
+      padding: 3px 6px;
+      text-transform: uppercase;
+      background: #eee;
+      color: #333;
+      border-radius: 3px; }
+      html body .post .page-navigation .prev:hover, html body .post .page-navigation .next:hover {
+        color: #eee;
+        background: #333;
+        text-decoration: none; }
+    html body .post .page-navigation .prev {
+      float: left; }
+    html body .post .page-navigation .next {
+      float: right; }
 html body .post-list {
   margin: 40px auto; }
   html body .post-list a.post-link {
