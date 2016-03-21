@@ -1,5 +1,8 @@
 SECRETS.txt
 
+_sites
+_sites/*
+
 ._.DS_Store
 .DS_Store
 .AppleDouble
