@@ -1,3 +1,3 @@
 # Antirobot
 
-My photo blog. Powered by Jekyll.
+My photo blog. Powered by Jekyll. Static site.
