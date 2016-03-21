@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "004"
+date:   2016-03-15 11:29:05 -0600
+---
+
+![004](/photos/004.jpg)
+
+Camera
+: Lomo LC-A
+
+Lens
+: 32mm
+
+Aperture
+: AUTO
+
+Shutter
+: AUTO
+
+ISO
+: 400
