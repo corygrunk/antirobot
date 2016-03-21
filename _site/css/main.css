@@ -142,12 +142,12 @@ html body .site-header {
     text-decoration: none;
     color: #5AC2CE; }
   html body .site-header .site-title {
-    color: #ececec;
+    color: #ffe815;
     font-size: 26px;
     font-weight: 600;
     text-transform: uppercase; }
     html body .site-header .site-title:visited {
-      color: #fff; }
+      color: #ffe815; }
     html body .site-header .site-title:hover {
       color: #5AC2CE; }
   html body .site-header .site-nav .page-link {

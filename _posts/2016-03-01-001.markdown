@@ -4,7 +4,7 @@ title:  "001"
 date:   2016-03-01 2:29:05 -0600
 ---
 
-![001]({{ site.url }}{{ site.baseurl  }}/photos/001.jpg)
+![001](/photos/001.jpg)
 
 Camera
 : Ricoh GR
