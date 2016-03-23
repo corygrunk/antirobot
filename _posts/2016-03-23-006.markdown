@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "006"
+date:   2016-03-22 09:19:05 -0600
+---
+
+![006](/photos/006.jpg)
+
+Camera
+: Ricoh GR
+
+Lens
+: 18.3mm
+
+Aperture
+: f{% exiftag f_number.to_f, photos, 006.jpg %}
+
+Shutter
+: {% exiftag exposure_time.to_s, photos, 006.jpg %}
+
+ISO
+: {% exiftag iso_speed_ratings, photos, 006.jpg %}
