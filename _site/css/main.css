@@ -133,42 +133,41 @@ pre {
 html body .wrapper {
   margin: 0 auto;
   text-align: center;
-  max-width: 1000px;
+  max-width: 800px;
   padding: 0 20px; }
 html body .site-header {
-  border-top-color: #5AC2CE;
-  background-color: #000; }
+  background-color: #FFF;
+  border-top: 2px solid #2c8b96;
+  border-bottom: none;
+  min-height: 20px; }
   html body .site-header a:hover {
     text-decoration: none;
     color: #5AC2CE; }
   html body .site-header .site-title {
-    color: #ffe815;
+    color: #ccc;
     font-size: 26px;
-    font-weight: 600;
-    text-transform: uppercase; }
+    font-weight: 600; }
     html body .site-header .site-title:visited {
-      color: #ffe815; }
+      color: #ccc; }
     html body .site-header .site-title:hover {
       color: #5AC2CE; }
   html body .site-header .site-nav .page-link {
     font-size: 13px;
     text-transform: uppercase;
-    color: #fff; }
+    color: #5AC2CE; }
     html body .site-header .site-nav .page-link:visited {
-      color: #fff; }
-    html body .site-header .site-nav .page-link:hover {
       color: #5AC2CE; }
+    html body .site-header .site-nav .page-link:hover {
+      color: #2c8b96; }
   html body .site-header a.icon-link {
     display: inline-block;
     vertical-align: middle;
     padding-bottom: 3px;
     margin-right: 3px;
-    color: #fff;
+    color: #5AC2CE;
     font-size: 22px; }
     html body .site-header a.icon-link:hover {
-      color: #5AC2CE; }
-html body .page-content .post .post-header {
-  margin-bottom: 20px; }
+      color: #2c8b96; }
 html body .page-content img.avatar {
   display: block;
   margin: 40px auto 0 auto;
@@ -177,18 +176,23 @@ html body .page-content img.avatar {
 html body .post {
   text-align: left;
   padding: 40px 0; }
-  html body .post .post-header h1 {
-    margin: 0;
-    font-size: 20px;
-    font-weight: bold;
-    text-transform: uppercase; }
-  html body .post .post-header p {
-    font-size: 12px;
-    text-transform: uppercase;
-    color: #999; }
+  html body .post .post-header {
+    margin-bottom: 0px; }
+    html body .post .post-header h1 {
+      margin: 0;
+      display: inline-block;
+      font-size: 14px;
+      font-weight: bolder;
+      text-transform: uppercase; }
+    html body .post .post-header p.post-meta {
+      display: inline-block;
+      font-size: 12px;
+      text-transform: uppercase;
+      color: #999; }
   html body .post .post-content dl,
   html body .post .post-content dl.exif {
-    font-size: 12px; }
+    font-size: 12px;
+    color: #999; }
     html body .post .post-content dl dt,
     html body .post .post-content dl.exif dt {
       display: inline-block; }
@@ -196,7 +200,8 @@ html body .post {
     html body .post .post-content dl.exif dd {
       display: inline-block;
       padding-right: 15px;
-      font-weight: bold; }
+      font-weight: bold;
+      color: #444; }
   html body .post .page-navigation {
     margin-top: 40px;
     position: relative;
@@ -216,26 +221,29 @@ html body .post {
     html body .post .page-navigation .next {
       float: right; }
 html body .post-list {
-  margin: 40px auto; }
+  margin: 0 auto; }
   html body .post-list a.post-link {
     position: relative;
     display: block;
     width: 100%;
     height: auto;
-    margin-bottom: 40px; }
+    margin-bottom: 30px; }
     html body .post-list a.post-link .post-details {
       position: absolute;
       bottom: 15px;
       left: 15px;
       text-align: left; }
       html body .post-list a.post-link .post-details h2 {
+        display: inline-block;
         margin-bottom: 0;
-        font-size: 18px;
+        font-size: 12px;
+        font-weight: bolder;
         color: #fff;
         text-transform: uppercase; }
       html body .post-list a.post-link .post-details span {
         font-size: 12px;
-        color: #fff; }
+        text-transform: uppercase;
+        color: rgba(255, 255, 255, 0.5); }
     html body .post-list a.post-link img {
       width: 100%;
       height: auto; }
@@ -247,8 +255,8 @@ html body footer.site-footer p {
   text-align: center;
   font-size: 11px;
   color: #999; }
-html body .post-title {
-  font-size: 28px; }
+html body .page-title {
+  padding-bottom: 20px; }
 
 /**
  * Site header
