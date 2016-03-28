@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "006"
+title:  "006 - Blizzard"
 date:   2016-03-23 09:19:05 -0600
 ---
 
-![006](/photos/006.jpg)
+![006 - Blizzard](/photos/006.jpg)
 
 Camera
 : Ricoh GR

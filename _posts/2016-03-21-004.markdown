@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "004"
+title:  "004 - Driving"
 date:   2016-03-21 11:29:05 -0600
 ---
 
-![004](/photos/004.jpg)
+![004 - Driving](/photos/004.jpg)
 
 Camera
 : Lomo LC-A

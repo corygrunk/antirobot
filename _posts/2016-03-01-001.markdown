@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "001"
+title:  "001 - Empty"
 date:   2016-03-01 2:29:05 -0600
 ---
 
-![001](/photos/001.jpg)
+![001 - Empty](/photos/001.jpg)
 
 Camera
 : Ricoh GR

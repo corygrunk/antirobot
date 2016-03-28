@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "003"
+title:  "003 - Tree Fixer"
 date:   2016-03-15 11:29:05 -0600
 ---
 
-![003](/photos/003.jpg)
+![003 - Tree Fixer](/photos/003.jpg)
 
 Camera
 : Ricoh GR
