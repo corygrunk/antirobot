@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "008"
+date:   2016-03-27 10:29:05 -0600
+---
+
+![008](/photos/008.jpg)
+
+Camera
+: Lomo LC-A
+
+Lens
+: 32mm
+
+Aperture
+: AUTO
+
+Shutter
+: AUTO
+
+ISO
+: 400
