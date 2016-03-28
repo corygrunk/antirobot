@@ -221,7 +221,7 @@ html body .post {
     html body .post .page-navigation .next {
       float: right; }
 html body .post-list {
-  margin: 0 auto; }
+  margin: 20px auto; }
   html body .post-list a.post-link {
     position: relative;
     display: block;
