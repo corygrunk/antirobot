@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "015 - Truck"
+date:   2016-03-31 16:11:05 -0600
+---
+
+![015 - Truck](/photos/015.jpg)
+
+Camera
+: Ricoh GR
+
+Lens
+: 18.3mm
+
+Aperture
+: f{% exiftag f_number.to_f, photos, 015.jpg %}
+
+Shutter
+: {% exiftag exposure_time.to_s, photos, 015.jpg %}
+
+ISO
+: {% exiftag iso_speed_ratings, photos, 015.jpg %}

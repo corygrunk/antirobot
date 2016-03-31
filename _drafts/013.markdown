@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "013 - Employees Only"
+date:   2016-03-31 16:11:05 -0600
+---
+
+![013 - Employees Only](/photos/013.jpg)
+
+Camera
+: Ricoh GR
+
+Lens
+: 18.3mm
+
+Aperture
+: f{% exiftag f_number.to_f, photos, 013.jpg %}
+
+Shutter
+: {% exiftag exposure_time.to_s, photos, 013.jpg %}
+
+ISO
+: {% exiftag iso_speed_ratings, photos, 013.jpg %}

@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "014 - 6th Ave"
+date:   2016-03-31 16:11:05 -0600
+---
+
+![014 - 6th Ave](/photos/014.jpg)
+
+Camera
+: Ricoh GR
+
+Lens
+: 18.3mm
+
+Aperture
+: f{% exiftag f_number.to_f, photos, 014.jpg %}
+
+Shutter
+: {% exiftag exposure_time.to_s, photos, 014.jpg %}
+
+ISO
+: {% exiftag iso_speed_ratings, photos, 014.jpg %}
