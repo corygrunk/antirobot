@@ -9,6 +9,8 @@ SECRETS.txt
 # Thumbnails
 ._*
 
+.tmp
+
 # Environment
 .env
 
@@ -16,3 +18,9 @@ SECRETS.txt
 logs
 *.log
 log.txt
+
+#Bower
+component.json
+bower_components
+
+nohup.out
