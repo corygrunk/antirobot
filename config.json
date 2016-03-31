@@ -1,0 +1,26 @@
+{
+  "locals": {
+    "url": "http://antirobot.com",
+    "name": "Antirobot",
+    "owner": "Cory Grunkemeyer",
+    "description": "Cory Grunkemeyer's photo blog."
+  },
+  "plugins": [
+    "./plugins/paginator.coffee"
+  ],
+  "require": {
+    "moment": "moment",
+    "_": "underscore",
+    "typogr": "typogr"
+  },
+  "jade": {
+    "pretty": true
+  },
+  "markdown": {
+    "smartLists": true,
+    "smartypants": true
+  },
+  "paginator": {
+    "perPage": 3
+  }
+}

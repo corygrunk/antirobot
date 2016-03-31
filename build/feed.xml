@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antirobot</title>
+    <atom:link href="http://antirobot.com/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <link>http://antirobot.com</link>
+    <description>Cory Grunkemeyer's photo blog.</description>
+    <pubDate>Mon, 28 Mar 2016 18:00:00 -0600</pubDate>
+    <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
+    <language>en</language>
+    <item>
+      <title>Daily Photo - 010 - Smudge</title>
+      <link>http://antirobot.com/articles/daily-photo-010/</link>
+      <pubDate>Mon, 28 Mar 2016 18:00:00 -0600</pubDate>
+      <guid isPermaLink="true">http://antirobot.com/articles/daily-photo-010/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/photos/010.jpg&quot; alt=&quot;010 - Smudge&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Daily Photo - 009 - Wallride</title>
+      <link>http://antirobot.com/articles/daily-photo-009/</link>
+      <pubDate>Sun, 27 Mar 2016 18:00:00 -0600</pubDate>
+      <guid isPermaLink="true">http://antirobot.com/articles/daily-photo-009/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/photos/009.jpg&quot; alt=&quot;009 - Wallride&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Daily Photo - 008 - Foggy iPod</title>
+      <link>http://antirobot.com/articles/daily-photo-008/</link>
+      <pubDate>Sat, 26 Mar 2016 18:00:00 -0600</pubDate>
+      <guid isPermaLink="true">http://antirobot.com/articles/daily-photo-008/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/photos/008.jpg&quot; alt=&quot;008 - Foggy iPod&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Daily Photo - 007 - Chomp</title>
+      <link>http://antirobot.com/articles/daily-photo-007/</link>
+      <pubDate>Wed, 23 Mar 2016 18:00:00 -0600</pubDate>
+      <guid isPermaLink="true">http://antirobot.com/articles/daily-photo-007/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/photos/007.jpg&quot; alt=&quot;007 - Chomp&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Daily Photo - 006 - Blizzard</title>
+      <link>http://antirobot.com/articles/daily-photo-006/</link>
+      <pubDate>Tue, 22 Mar 2016 18:00:00 -0600</pubDate>
+      <guid isPermaLink="true">http://antirobot.com/articles/daily-photo-006/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/photos/006.jpg&quot; alt=&quot;006 - Blizzard&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Daily Photo - 005 - Colfax</title>
+      <link>http://antirobot.com/articles/daily-photo-005/</link>
+      <pubDate>Mon, 21 Mar 2016 18:00:00 -0600</pubDate>
+      <guid isPermaLink="true">http://antirobot.com/articles/daily-photo-005/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/photos/005.jpg&quot; alt=&quot;005 - Colfax&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Daily Photo - 004 - Driving</title>
+      <link>http://antirobot.com/articles/daily-photo-004/</link>
+      <pubDate>Sun, 20 Mar 2016 18:00:00 -0600</pubDate>
+      <guid isPermaLink="true">http://antirobot.com/articles/daily-photo-004/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/photos/004.jpg&quot; alt=&quot;004 - Driving&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Daily Photo - 003 - Tree Fixer</title>
+      <link>http://antirobot.com/articles/daily-photo-003/</link>
+      <pubDate>Mon, 14 Mar 2016 18:00:00 -0600</pubDate>
+      <guid isPermaLink="true">http://antirobot.com/articles/daily-photo-003/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/photos/003.jpg&quot; alt=&quot;001 - Tree Fixer&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Daily Photo - 002 - Storm</title>
+      <link>http://antirobot.com/articles/daily-photo-002/</link>
+      <pubDate>Mon, 07 Mar 2016 17:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://antirobot.com/articles/daily-photo-002/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/photos/002.jpg&quot; alt=&quot;002 - Storm&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Daily Photo - 001 - Empty</title>
+      <link>http://antirobot.com/articles/daily-photo-001/</link>
+      <pubDate>Mon, 29 Feb 2016 17:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://antirobot.com/articles/daily-photo-001/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/photos/001.jpg&quot; alt=&quot;001 - Empty&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>
