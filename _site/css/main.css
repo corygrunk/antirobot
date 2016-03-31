@@ -133,7 +133,7 @@ pre {
 html body .wrapper {
   margin: 0 auto;
   text-align: center;
-  max-width: 800px;
+  max-width: 1000px;
   padding: 0 20px; }
 html body .site-header {
   background-color: #FFF;
@@ -168,11 +168,6 @@ html body .site-header {
     font-size: 22px; }
     html body .site-header a.icon-link:hover {
       color: #2c8b96; }
-html body .page-content img.avatar {
-  display: block;
-  margin: 40px auto 0 auto;
-  width: 150px;
-  height: 150px; }
 html body .post {
   text-align: left;
   padding: 40px 0; }
@@ -247,6 +242,32 @@ html body .post-list {
     html body .post-list a.post-link img {
       width: 100%;
       height: auto; }
+html body .page-navigation {
+  margin-top: 40px;
+  position: relative;
+  font-size: 11px;
+  height: 50px; }
+  html body .page-navigation .page-number {
+    display: inline-block;
+    padding-top: 3px;
+    font-size: 12px; }
+  html body .page-navigation a.prev, html body .page-navigation a.next {
+    background: #eee;
+    color: #333; }
+    html body .page-navigation a.prev:hover, html body .page-navigation a.next:hover {
+      color: #eee;
+      background: #333;
+      text-decoration: none; }
+  html body .page-navigation .prev, html body .page-navigation .next {
+    padding: 3px 6px;
+    text-transform: uppercase;
+    background: #eee;
+    color: #ccc;
+    border-radius: 3px; }
+  html body .page-navigation .prev {
+    float: left; }
+  html body .page-navigation .next {
+    float: right; }
 html body p.rss-subscribe {
   clear: both;
   text-align: center;
@@ -257,6 +278,12 @@ html body footer.site-footer p {
   color: #999; }
 html body .page-title {
   padding-bottom: 20px; }
+html img.avatar {
+  display: block;
+  margin: 40px auto 0 auto;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%; }
 
 /**
  * Site header

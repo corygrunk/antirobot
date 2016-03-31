@@ -5,7 +5,7 @@ html {
     .wrapper {
       margin: 0 auto;
       text-align: center;
-      max-width: 800px;
+      max-width: 1000px;
       padding: 0 20px;
     }
     .site-header {
@@ -58,12 +58,6 @@ html {
         .post-header {
           //margin-bottom: 20px;
         }
-      }
-      img.avatar {
-        display: block;
-        margin: 40px auto 0 auto;
-        width: 150px;
-        height: 150px;
       }
     }
     .post {
@@ -158,6 +152,39 @@ html {
         }
       }
     }
+    .page-navigation {
+      margin-top: 40px;
+      position: relative;
+      font-size: 11px;
+      height: 50px;
+      .page-number {
+        display: inline-block;
+        padding-top: 3px;
+        font-size: 12px;
+      }
+      a.prev, a.next {
+        background: #eee;
+        color: #333;
+        &:hover {
+          color: #eee;
+          background: #333;
+          text-decoration: none;
+        }
+      }
+      .prev, .next {
+        padding: 3px 6px;
+        text-transform: uppercase;
+        background: #eee;
+        color: #ccc;
+        border-radius: 3px;
+      }
+      .prev {
+        float: left;
+      }
+      .next {
+        float: right;
+      }
+    }
     p.rss-subscribe {
       clear: both;
       text-align: center;
@@ -173,5 +200,13 @@ html {
     .page-title {
       padding-bottom: 20px;
     }
+  }
+
+  img.avatar {
+    display: block;
+    margin: 40px auto 0 auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
   }
 }
