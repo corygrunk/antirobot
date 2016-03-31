@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "012 - Arrows"
+date:   2016-03-31 13:11:05 -0600
+---
+
+![012 - Arrows](/photos/012.jpg)
+
+Camera
+: Lomo LC-A
+
+Lens
+: 32mm
+
+Aperture
+: AUTO
+
+Shutter
+: AUTO
+
+ISO
+: 400
