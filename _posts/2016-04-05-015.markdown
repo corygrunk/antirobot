@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "015 - Truck"
-date:   2016-03-31 16:11:05 -0600
+title:  "015 - 6th Ave"
+date:   2016-04-05 10:12:00 -0600
 ---
 
-![015 - Truck](/photos/015.jpg)
+![015 - 6th Ave](/photos/015.jpg)
 
 Camera
 : Ricoh GR
