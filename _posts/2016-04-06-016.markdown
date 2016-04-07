@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "016 - Drive"
+date:   2016-04-06 21:30:00 -0600
+---
+
+![016 - Drive](/photos/016.jpg)
+
+Camera
+: Ricoh GR
+
+Lens
+: 18.3mm
+
+Aperture
+: f{% exiftag f_number.to_f, photos, 016.jpg %}
+
+Shutter
+: {% exiftag exposure_time.to_s, photos, 016.jpg %}
+
+ISO
+: {% exiftag iso_speed_ratings, photos, 016.jpg %}
