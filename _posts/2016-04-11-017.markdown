@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "017 - Neighborhood"
+date:   2016-04-06 09:20:00 -0600
+---
+
+![017 - Neighborhood](/photos/017.jpg)
+
+Camera
+: Ricoh GR
+
+Lens
+: 18.3mm
+
+Aperture
+: f{% exiftag f_number.to_f, photos, 017.jpg %}
+
+Shutter
+: {% exiftag exposure_time.to_s, photos, 017.jpg %}
+
+ISO
+: {% exiftag iso_speed_ratings, photos, 017.jpg %}
