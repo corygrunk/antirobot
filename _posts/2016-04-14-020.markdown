@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "020"
+date:   2016-04-14 09:00:00 -0600
+---
+
+![020](/photos/020.jpg)
+
+Camera
+: Ricoh GR
+
+Lens
+: 18.3mm
+
+Aperture
+: f{% exiftag f_number.to_f, photos, 020.jpg %}
+
+Shutter
+: {% exiftag exposure_time.to_s, photos, 020.jpg %}
+
+ISO
+: {% exiftag iso_speed_ratings, photos, 020.jpg %}
