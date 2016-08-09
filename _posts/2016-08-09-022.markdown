@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "022"
+date:   2016-08-09 10:30:00 -0600
+---
+
+![022](/photos/022.jpg)
+
+Camera
+: Leica M8
+
+Lens
+: 50mm
+
+Aperture
+: f{% exiftag f_number.to_f, photos, 021.jpg %}
+
+Shutter
+: {% exiftag exposure_time.to_s, photos, 021.jpg %}
+
+ISO
+: {% exiftag iso_speed_ratings, photos, 021.jpg %}
