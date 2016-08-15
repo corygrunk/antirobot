@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "024"
+date:   2016-08-15 12:30:00 -0600
+---
+
+![024](/photos/024.jpg)
+
+Camera
+: Ricoh GR
+
+Lens
+: 18.3mm
+
+Aperture
+: f{% exiftag f_number.to_f, photos, 021.jpg %}
+
+Shutter
+: {% exiftag exposure_time.to_s, photos, 021.jpg %}
+
+ISO
+: {% exiftag iso_speed_ratings, photos, 021.jpg %}
