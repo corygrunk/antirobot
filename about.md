@@ -6,6 +6,6 @@ permalink: /about/
 
 I'm [Cory](http://corygrunk.com/), and this is my photo blog. I like to take photos of things I encounter every day. I hope you enjoy them.
 
-My favorite camera over the years has been my Lomo LC-A, but film is expensive and a pain in the ass (sorry, it is). I've used a bunch of digital cameras over the years but lately I've landed on the Ricoh GR. It feels kind of Lomo-ish, it's small, and the image quality is great.
+My favorite camera over the years has always been the Lomo LC-A. It is small and the results were often unpredictable. I love it. I enjoy shooting with rangefinders. The fact that you aren't seeing the true field of view that the lens sees can yield unpredictable results. Of course you get better at predicting the end result with practice but you still get a great feeling of anticipation when you finally get to look through your photos. I'm shooting mostly with a Ricoh GR and a Leica M9 (now that the price has finally come down.)
 
 I'm doing this blog to keep me posting photos and not letting them hide on my hard drive.
