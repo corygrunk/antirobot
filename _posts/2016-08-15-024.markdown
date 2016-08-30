@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "024"
+title:  "024 - Field"
 date:   2016-08-15 12:30:00 -0600
 ---
 
-![024](/photos/024.jpg)
+![024 - Field](/photos/024.jpg)
 
 Camera
 : Ricoh GR

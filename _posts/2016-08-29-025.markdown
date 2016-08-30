@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "025"
+title:  "025 - Stop-N-Shop"
 date:   2016-08-29 12:30:00 -0600
 ---
 
-![025](/photos/025.jpg)
+![025 - Stop-N-Shop](/photos/025.jpg)
 
 Camera
 : Leica M9

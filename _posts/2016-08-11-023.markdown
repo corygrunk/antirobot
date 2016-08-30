@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "023"
+title:  "023 - Town Liquor"
 date:   2016-08-11 9:30:00 -0600
 ---
 
-![023](/photos/023.jpg)
+![023 - Town Liquor](/photos/023.jpg)
 
 Camera
 : Leica M8

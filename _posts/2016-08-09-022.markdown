@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "022"
+title:  "022 - Trains and Birds"
 date:   2016-08-09 10:30:00 -0600
 ---
 
-![022](/photos/022.jpg)
+![022 - Trains and Birds](/photos/022.jpg)
 
 Camera
 : Leica M8

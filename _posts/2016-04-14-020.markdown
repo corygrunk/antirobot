@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "020"
+title:  "020 - City Park Before the Storm"
 date:   2016-04-14 09:00:00 -0600
 ---
 
-![020](/photos/020.jpg)
+![020 - City Park Before the Storm](/photos/020.jpg)
 
 Camera
 : Ricoh GR

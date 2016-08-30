@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "026"
+title:  "026 - Trailers and Telephone Poles"
 date:   2016-08-30 2:30:00 -0600
 ---
 
-![026](/photos/026.jpg)
+![026 - Trailers and Telephone Poles](/photos/026.jpg)
 
 Camera
 : Leica M9
