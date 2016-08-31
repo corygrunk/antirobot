@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "007 - Chomp"
+title:  "Antirobot 007 - Chomp"
+description: "Antirobot is Cory Grunkemeyer's photo blog."
 date:   2016-03-24 14:26:00 -0600
 ---
 

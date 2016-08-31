@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "004 - Driving"
+title:  "Antirobot 004 - Driving"
+description: "Antirobot is Cory Grunkemeyer's photo blog."
 date:   2016-03-21 11:29:05 -0600
 ---
 

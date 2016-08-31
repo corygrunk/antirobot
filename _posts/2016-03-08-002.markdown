@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "002 - Storm"
+title:  "Antirobot 002 - Storm"
+description: "Antirobot is Cory Grunkemeyer's photo blog."
 date:   2016-03-08 10:20:05 -0600
 ---
 

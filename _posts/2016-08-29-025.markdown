@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "025 - Stop-N-Shop"
+title:  "Antirobot 025 - Stop-N-Shop"
+description: "Antirobot is Cory Grunkemeyer's photo blog."
 date:   2016-08-29 12:30:00 -0600
 ---
 

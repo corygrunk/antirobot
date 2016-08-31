@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "020 - City Park Before the Storm"
+title:  "Antirobot 020 - City Park Before the Storm"
+description: "Antirobot is Cory Grunkemeyer's photo blog."
 date:   2016-04-14 09:00:00 -0600
 ---
 

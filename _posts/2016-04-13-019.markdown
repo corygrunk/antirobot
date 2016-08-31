@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "019 - Bill's Auto Service"
+title:  "Antirobot 019 - Bill's Auto Service"
+description: "Antirobot is Cory Grunkemeyer's photo blog."
 date:   2016-04-13 12:30:00 -0600
 ---
 

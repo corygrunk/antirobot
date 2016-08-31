@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "023 - Town Liquor"
+title:  "Antirobot 023 - Town Liquor"
+description: "Antirobot is Cory Grunkemeyer's photo blog."
 date:   2016-08-11 9:30:00 -0600
 ---
 

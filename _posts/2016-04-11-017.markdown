@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "017 - Neighborhood"
+title:  "Antirobot 017 - Neighborhood"
+description: "Antirobot is Cory Grunkemeyer's photo blog."
 date:   2016-04-11 09:20:00 -0600
 ---
 

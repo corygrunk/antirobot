@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description: "Antirobot is Cory Grunkemeyer's photo blog."
 permalink: /about/
 ---
 

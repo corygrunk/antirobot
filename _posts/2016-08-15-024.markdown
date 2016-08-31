@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "024 - Field"
+title:  "Antirobot 024 - Field"
+description: "Antirobot is Cory Grunkemeyer's photo blog."
 date:   2016-08-15 12:30:00 -0600
 ---
 

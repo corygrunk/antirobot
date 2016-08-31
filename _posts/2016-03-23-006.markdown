@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "006 - Blizzard"
+title:  "Antirobot 006 - Blizzard"
+description: "Antirobot is Cory Grunkemeyer's photo blog."
 date:   2016-03-23 09:19:05 -0600
 ---
 
