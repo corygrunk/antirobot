@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Antirobot 030 - Under the Bridge"
+description: "Antirobot is Cory Grunkemeyer's photo blog."
+date:   2016-09-06 1:30:00 -0600
+---
+
+![030 - Under the Bridge](/photos/030.jpg)
+
+Camera
+: Leica M9
+
+Lens
+: 35mm
+
+Aperture
+: f{% exiftag f_number.to_f, photos, 021.jpg %}
+
+Shutter
+: {% exiftag exposure_time.to_s, photos, 021.jpg %}
+
+ISO
+: {% exiftag iso_speed_ratings, photos, 021.jpg %}
