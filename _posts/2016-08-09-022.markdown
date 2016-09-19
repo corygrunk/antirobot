@@ -8,16 +8,16 @@ date:   2016-08-09 10:30:00 -0600
 ![022 - Trains and Birds](/photos/022.jpg)
 
 Camera
-: Leica M8
+: {% exiftag model, photos, 022.jpg %}
 
 Lens
-: 50mm
+: {% exiftag focal_length.to_f, photos, 022.jpg %}mm
 
 Aperture
-: f{% exiftag f_number.to_f, photos, 021.jpg %}
+: f{% exiftag f_number.to_f, photos, 022.jpg %}
 
 Shutter
-: {% exiftag exposure_time.to_s, photos, 021.jpg %}
+: {% exiftag exposure_time.to_s, photos, 022.jpg %}
 
 ISO
-: {% exiftag iso_speed_ratings, photos, 021.jpg %}
+: {% exiftag iso_speed_ratings, photos, 022.jpg %}

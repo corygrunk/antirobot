@@ -8,10 +8,10 @@ date:   2016-04-14 09:00:00 -0600
 ![020 - City Park Before the Storm](/photos/020.jpg)
 
 Camera
-: Ricoh GR
+: {% exiftag model, photos, 020.jpg %}
 
 Lens
-: 18.3mm
+: {% exiftag focal_length.to_f, photos, 020.jpg %}mm
 
 Aperture
 : f{% exiftag f_number.to_f, photos, 020.jpg %}

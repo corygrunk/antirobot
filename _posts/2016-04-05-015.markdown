@@ -8,10 +8,10 @@ date:   2016-04-05 10:12:00 -0600
 ![015 - 6th Ave](/photos/015.jpg)
 
 Camera
-: Ricoh GR
+: {% exiftag model, photos, 015.jpg %}
 
 Lens
-: 18.3mm
+: {% exiftag focal_length.to_f, photos, 015.jpg %}mm
 
 Aperture
 : f{% exiftag f_number.to_f, photos, 015.jpg %}

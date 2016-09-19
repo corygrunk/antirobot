@@ -8,10 +8,10 @@ date:   2016-03-23 09:19:05 -0600
 ![006 - Blizzard](/photos/006.jpg)
 
 Camera
-: Ricoh GR
+: {% exiftag model, photos, 006.jpg %}
 
 Lens
-: 18.3mm
+: {% exiftag focal_length.to_f, photos, 006.jpg %}mm
 
 Aperture
 : f{% exiftag f_number.to_f, photos, 006.jpg %}

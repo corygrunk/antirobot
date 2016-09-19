@@ -8,16 +8,16 @@ date:   2016-09-01 1:30:00 -0600
 ![028 - Flower](/photos/028.jpg)
 
 Camera
-: Leica M9
+: {% exiftag model, photos, 028.jpg %}
 
 Lens
-: 35mm
+: {% exiftag focal_length.to_f, photos, 028.jpg %}mm
 
 Aperture
-: f{% exiftag f_number.to_f, photos, 021.jpg %}
+: f{% exiftag f_number.to_f, photos, 028.jpg %}
 
 Shutter
-: {% exiftag exposure_time.to_s, photos, 021.jpg %}
+: {% exiftag exposure_time.to_s, photos, 028.jpg %}
 
 ISO
-: {% exiftag iso_speed_ratings, photos, 021.jpg %}
+: {% exiftag iso_speed_ratings, photos, 028.jpg %}

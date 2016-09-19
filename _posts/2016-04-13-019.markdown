@@ -8,10 +8,10 @@ date:   2016-04-13 12:30:00 -0600
 ![019 - Bill's Auto Service](/photos/019.jpg)
 
 Camera
-: Ricoh GR
+: {% exiftag model, photos, 019.jpg %}
 
 Lens
-: 18.3mm
+: {% exiftag focal_length.to_f, photos, 019.jpg %}mm
 
 Aperture
 : f{% exiftag f_number.to_f, photos, 019.jpg %}

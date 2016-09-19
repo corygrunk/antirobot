@@ -8,10 +8,10 @@ date:   2016-03-29 15:11:05 -0600
 ![010 - Smudge](/photos/010.jpg)
 
 Camera
-: Ricoh GR
+: {% exiftag model, photos, 010.jpg %}
 
 Lens
-: 18.3mm
+: {% exiftag focal_length.to_f, photos, 010.jpg %}mm
 
 Aperture
 : f{% exiftag f_number.to_f, photos, 010.jpg %}

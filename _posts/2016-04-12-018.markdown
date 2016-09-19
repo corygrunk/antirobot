@@ -8,10 +8,10 @@ date:   2016-04-12 09:44:00 -0600
 ![018 - Run](/photos/018.jpg)
 
 Camera
-: Ricoh GR
+: {% exiftag model, photos, 018.jpg %}
 
 Lens
-: 18.3mm
+: {% exiftag focal_length.to_f, photos, 018.jpg %}mm
 
 Aperture
 : f{% exiftag f_number.to_f, photos, 018.jpg %}

@@ -8,10 +8,10 @@ date:   2016-04-11 09:20:00 -0600
 ![017 - Neighborhood](/photos/017.jpg)
 
 Camera
-: Ricoh GR
+: {% exiftag model, photos, 017.jpg %}
 
 Lens
-: 18.3mm
+: {% exiftag focal_length.to_f, photos, 017.jpg %}mm
 
 Aperture
 : f{% exiftag f_number.to_f, photos, 017.jpg %}

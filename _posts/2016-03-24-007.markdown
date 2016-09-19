@@ -8,10 +8,10 @@ date:   2016-03-24 14:26:00 -0600
 ![007 - Chomp](/photos/007.jpg)
 
 Camera
-: Ricoh GR
+: {% exiftag model, photos, 007.jpg %}
 
 Lens
-: 18.3mm
+: {% exiftag focal_length.to_f, photos, 007.jpg %}mm
 
 Aperture
 : f{% exiftag f_number.to_f, photos, 007.jpg %}

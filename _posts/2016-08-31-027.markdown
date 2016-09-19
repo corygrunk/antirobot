@@ -8,16 +8,16 @@ date:   2016-08-31 1:30:00 -0600
 ![027 - Auto Yard](/photos/027.jpg)
 
 Camera
-: Leica M9
+: {% exiftag model, photos, 027.jpg %}
 
 Lens
-: 35mm
+: {% exiftag focal_length.to_f, photos, 027.jpg %}mm
 
 Aperture
-: f{% exiftag f_number.to_f, photos, 021.jpg %}
+: f{% exiftag f_number.to_f, photos, 027.jpg %}
 
 Shutter
-: {% exiftag exposure_time.to_s, photos, 021.jpg %}
+: {% exiftag exposure_time.to_s, photos, 027.jpg %}
 
 ISO
-: {% exiftag iso_speed_ratings, photos, 021.jpg %}
+: {% exiftag iso_speed_ratings, photos, 027.jpg %}

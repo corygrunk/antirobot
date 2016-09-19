@@ -8,16 +8,16 @@ date:   2016-08-15 12:30:00 -0600
 ![024 - Field](/photos/024.jpg)
 
 Camera
-: Ricoh GR
+: {% exiftag model, photos, 024.jpg %}
 
 Lens
-: 18.3mm
+: {% exiftag focal_length.to_f, photos, 024.jpg %}mm
 
 Aperture
-: f{% exiftag f_number.to_f, photos, 021.jpg %}
+: f{% exiftag f_number.to_f, photos, 024.jpg %}
 
 Shutter
-: {% exiftag exposure_time.to_s, photos, 021.jpg %}
+: {% exiftag exposure_time.to_s, photos, 024.jpg %}
 
 ISO
-: {% exiftag iso_speed_ratings, photos, 021.jpg %}
+: {% exiftag iso_speed_ratings, photos, 024.jpg %}

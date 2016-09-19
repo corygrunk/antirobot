@@ -8,10 +8,10 @@ date:   2016-04-06 21:30:00 -0600
 ![016 - Drive](/photos/016.jpg)
 
 Camera
-: Ricoh GR
+: {% exiftag model, photos, 016.jpg %}
 
 Lens
-: 18.3mm
+: {% exiftag focal_length.to_f, photos, 016.jpg %}mm
 
 Aperture
 : f{% exiftag f_number.to_f, photos, 016.jpg %}

@@ -8,10 +8,10 @@ date:   2016-03-01 2:29:05 -0600
 ![001 - Empty](/photos/001.jpg)
 
 Camera
-: Ricoh GR
+: {% exiftag model, photos, 001.jpg %}
 
 Lens
-: 18.3mm
+: {% exiftag focal_length.to_f, photos, 001.jpg %}mm
 
 Aperture
 : f{% exiftag f_number.to_f, photos, 001.jpg %}

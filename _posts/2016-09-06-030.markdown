@@ -8,16 +8,16 @@ date:   2016-09-06 1:30:00 -0600
 ![030 - Under the Bridge](/photos/030.jpg)
 
 Camera
-: Leica M9
+: {% exiftag model, photos, 030.jpg %}
 
 Lens
-: 35mm
+: {% exiftag focal_length.to_f, photos, 030.jpg %}mm
 
 Aperture
-: f{% exiftag f_number.to_f, photos, 021.jpg %}
+: f{% exiftag f_number.to_f, photos, 030.jpg %}
 
 Shutter
-: {% exiftag exposure_time.to_s, photos, 021.jpg %}
+: {% exiftag exposure_time.to_s, photos, 030.jpg %}
 
 ISO
-: {% exiftag iso_speed_ratings, photos, 021.jpg %}
+: {% exiftag iso_speed_ratings, photos, 030.jpg %}

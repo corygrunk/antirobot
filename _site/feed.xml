@@ -6,9 +6,33 @@
 </description>
     <link>http://antirobot.com/</link>
     <atom:link href="http://antirobot.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 12 Sep 2016 16:16:09 -0600</pubDate>
-    <lastBuildDate>Mon, 12 Sep 2016 16:16:09 -0600</lastBuildDate>
+    <pubDate>Mon, 19 Sep 2016 14:18:23 -0600</pubDate>
+    <lastBuildDate>Mon, 19 Sep 2016 14:18:23 -0600</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Antirobot 032 - Doritos</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/photos/032.jpg&quot; alt=&quot;032 - Doritos&quot; /&gt;&lt;/p&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;Camera&lt;/dt&gt;
+  &lt;dd&gt;iPhone 6s&lt;/dd&gt;
+  &lt;dt&gt;Lens&lt;/dt&gt;
+  &lt;dd&gt;4.15mm&lt;/dd&gt;
+  &lt;dt&gt;Aperture&lt;/dt&gt;
+  &lt;dd&gt;f2.2&lt;/dd&gt;
+  &lt;dt&gt;Shutter&lt;/dt&gt;
+  &lt;dd&gt;1/125&lt;/dd&gt;
+  &lt;dt&gt;ISO&lt;/dt&gt;
+  &lt;dd&gt;25&lt;/dd&gt;
+&lt;/dl&gt;
+</description>
+        <pubDate>Mon, 19 Sep 2016 11:30:00 -0600</pubDate>
+        <link>http://antirobot.com/2016/09/19/032.html</link>
+        <guid isPermaLink="true">http://antirobot.com/2016/09/19/032.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Antirobot 031 - Wyoming</title>
@@ -16,11 +40,11 @@
 
 &lt;dl&gt;
   &lt;dt&gt;Camera&lt;/dt&gt;
-  &lt;dd&gt;Ricoh GR&lt;/dd&gt;
+  &lt;dd&gt;GR&lt;/dd&gt;
   &lt;dt&gt;Lens&lt;/dt&gt;
   &lt;dd&gt;18.3mm&lt;/dd&gt;
   &lt;dt&gt;Aperture&lt;/dt&gt;
-  &lt;dd&gt;f2.8&lt;/dd&gt;
+  &lt;dd&gt;f5.6&lt;/dd&gt;
   &lt;dt&gt;Shutter&lt;/dt&gt;
   &lt;dd&gt;1/2000&lt;/dd&gt;
   &lt;dt&gt;ISO&lt;/dt&gt;
@@ -40,15 +64,15 @@
 
 &lt;dl&gt;
   &lt;dt&gt;Camera&lt;/dt&gt;
-  &lt;dd&gt;Leica M9&lt;/dd&gt;
+  &lt;dd&gt;M9 Digital Camera&lt;/dd&gt;
   &lt;dt&gt;Lens&lt;/dt&gt;
-  &lt;dd&gt;35mm&lt;/dd&gt;
+  &lt;dd&gt;35.0mm&lt;/dd&gt;
   &lt;dt&gt;Aperture&lt;/dt&gt;
-  &lt;dd&gt;f5.6&lt;/dd&gt;
+  &lt;dd&gt;f8.0&lt;/dd&gt;
   &lt;dt&gt;Shutter&lt;/dt&gt;
-  &lt;dd&gt;1/1500&lt;/dd&gt;
+  &lt;dd&gt;1/125&lt;/dd&gt;
   &lt;dt&gt;ISO&lt;/dt&gt;
-  &lt;dd&gt;100&lt;/dd&gt;
+  &lt;dd&gt;160&lt;/dd&gt;
 &lt;/dl&gt;
 </description>
         <pubDate>Tue, 06 Sep 2016 01:30:00 -0600</pubDate>
@@ -64,15 +88,15 @@
 
 &lt;dl&gt;
   &lt;dt&gt;Camera&lt;/dt&gt;
-  &lt;dd&gt;Leica M9&lt;/dd&gt;
+  &lt;dd&gt;M9 Digital Camera&lt;/dd&gt;
   &lt;dt&gt;Lens&lt;/dt&gt;
-  &lt;dd&gt;35mm&lt;/dd&gt;
+  &lt;dd&gt;35.0mm&lt;/dd&gt;
   &lt;dt&gt;Aperture&lt;/dt&gt;
-  &lt;dd&gt;f5.6&lt;/dd&gt;
+  &lt;dd&gt;f6.7&lt;/dd&gt;
   &lt;dt&gt;Shutter&lt;/dt&gt;
-  &lt;dd&gt;1/1500&lt;/dd&gt;
+  &lt;dd&gt;1/250&lt;/dd&gt;
   &lt;dt&gt;ISO&lt;/dt&gt;
-  &lt;dd&gt;100&lt;/dd&gt;
+  &lt;dd&gt;160&lt;/dd&gt;
 &lt;/dl&gt;
 </description>
         <pubDate>Sat, 03 Sep 2016 01:30:00 -0600</pubDate>
@@ -88,15 +112,15 @@
 
 &lt;dl&gt;
   &lt;dt&gt;Camera&lt;/dt&gt;
-  &lt;dd&gt;Leica M9&lt;/dd&gt;
+  &lt;dd&gt;M9 Digital Camera&lt;/dd&gt;
   &lt;dt&gt;Lens&lt;/dt&gt;
-  &lt;dd&gt;35mm&lt;/dd&gt;
+  &lt;dd&gt;35.0mm&lt;/dd&gt;
   &lt;dt&gt;Aperture&lt;/dt&gt;
-  &lt;dd&gt;f5.6&lt;/dd&gt;
+  &lt;dd&gt;f2.8&lt;/dd&gt;
   &lt;dt&gt;Shutter&lt;/dt&gt;
-  &lt;dd&gt;1/1500&lt;/dd&gt;
+  &lt;dd&gt;1/2000&lt;/dd&gt;
   &lt;dt&gt;ISO&lt;/dt&gt;
-  &lt;dd&gt;100&lt;/dd&gt;
+  &lt;dd&gt;160&lt;/dd&gt;
 &lt;/dl&gt;
 </description>
         <pubDate>Thu, 01 Sep 2016 01:30:00 -0600</pubDate>
@@ -112,15 +136,15 @@
 
 &lt;dl&gt;
   &lt;dt&gt;Camera&lt;/dt&gt;
-  &lt;dd&gt;Leica M9&lt;/dd&gt;
+  &lt;dd&gt;M9 Digital Camera&lt;/dd&gt;
   &lt;dt&gt;Lens&lt;/dt&gt;
-  &lt;dd&gt;35mm&lt;/dd&gt;
+  &lt;dd&gt;35.0mm&lt;/dd&gt;
   &lt;dt&gt;Aperture&lt;/dt&gt;
-  &lt;dd&gt;f5.6&lt;/dd&gt;
+  &lt;dd&gt;f5.7&lt;/dd&gt;
   &lt;dt&gt;Shutter&lt;/dt&gt;
-  &lt;dd&gt;1/1500&lt;/dd&gt;
+  &lt;dd&gt;1/500&lt;/dd&gt;
   &lt;dt&gt;ISO&lt;/dt&gt;
-  &lt;dd&gt;100&lt;/dd&gt;
+  &lt;dd&gt;160&lt;/dd&gt;
 &lt;/dl&gt;
 </description>
         <pubDate>Wed, 31 Aug 2016 01:30:00 -0600</pubDate>
@@ -136,15 +160,15 @@
 
 &lt;dl&gt;
   &lt;dt&gt;Camera&lt;/dt&gt;
-  &lt;dd&gt;Leica M9&lt;/dd&gt;
+  &lt;dd&gt;M9 Digital Camera&lt;/dd&gt;
   &lt;dt&gt;Lens&lt;/dt&gt;
-  &lt;dd&gt;35mm&lt;/dd&gt;
+  &lt;dd&gt;35.0mm&lt;/dd&gt;
   &lt;dt&gt;Aperture&lt;/dt&gt;
-  &lt;dd&gt;f5.6&lt;/dd&gt;
+  &lt;dd&gt;f6.7&lt;/dd&gt;
   &lt;dt&gt;Shutter&lt;/dt&gt;
-  &lt;dd&gt;1/1500&lt;/dd&gt;
+  &lt;dd&gt;1/500&lt;/dd&gt;
   &lt;dt&gt;ISO&lt;/dt&gt;
-  &lt;dd&gt;100&lt;/dd&gt;
+  &lt;dd&gt;400&lt;/dd&gt;
 &lt;/dl&gt;
 </description>
         <pubDate>Tue, 30 Aug 2016 02:30:00 -0600</pubDate>
@@ -160,15 +184,15 @@
 
 &lt;dl&gt;
   &lt;dt&gt;Camera&lt;/dt&gt;
-  &lt;dd&gt;Leica M9&lt;/dd&gt;
+  &lt;dd&gt;M9 Digital Camera&lt;/dd&gt;
   &lt;dt&gt;Lens&lt;/dt&gt;
-  &lt;dd&gt;35mm&lt;/dd&gt;
+  &lt;dd&gt;35.0mm&lt;/dd&gt;
   &lt;dt&gt;Aperture&lt;/dt&gt;
-  &lt;dd&gt;f5.6&lt;/dd&gt;
+  &lt;dd&gt;f5.7&lt;/dd&gt;
   &lt;dt&gt;Shutter&lt;/dt&gt;
-  &lt;dd&gt;1/1500&lt;/dd&gt;
+  &lt;dd&gt;1/500&lt;/dd&gt;
   &lt;dt&gt;ISO&lt;/dt&gt;
-  &lt;dd&gt;100&lt;/dd&gt;
+  &lt;dd&gt;160&lt;/dd&gt;
 &lt;/dl&gt;
 </description>
         <pubDate>Mon, 29 Aug 2016 12:30:00 -0600</pubDate>
@@ -184,13 +208,13 @@
 
 &lt;dl&gt;
   &lt;dt&gt;Camera&lt;/dt&gt;
-  &lt;dd&gt;Ricoh GR&lt;/dd&gt;
+  &lt;dd&gt;GR&lt;/dd&gt;
   &lt;dt&gt;Lens&lt;/dt&gt;
   &lt;dd&gt;18.3mm&lt;/dd&gt;
   &lt;dt&gt;Aperture&lt;/dt&gt;
   &lt;dd&gt;f5.6&lt;/dd&gt;
   &lt;dt&gt;Shutter&lt;/dt&gt;
-  &lt;dd&gt;1/1500&lt;/dd&gt;
+  &lt;dd&gt;1/250&lt;/dd&gt;
   &lt;dt&gt;ISO&lt;/dt&gt;
   &lt;dd&gt;100&lt;/dd&gt;
 &lt;/dl&gt;
@@ -208,44 +232,20 @@
 
 &lt;dl&gt;
   &lt;dt&gt;Camera&lt;/dt&gt;
-  &lt;dd&gt;Leica M8&lt;/dd&gt;
+  &lt;dd&gt;M8 Digital Camera&lt;/dd&gt;
   &lt;dt&gt;Lens&lt;/dt&gt;
-  &lt;dd&gt;50mm&lt;/dd&gt;
+  &lt;dd&gt;50.0mm&lt;/dd&gt;
   &lt;dt&gt;Aperture&lt;/dt&gt;
-  &lt;dd&gt;f5.6&lt;/dd&gt;
+  &lt;dd&gt;f8.0&lt;/dd&gt;
   &lt;dt&gt;Shutter&lt;/dt&gt;
-  &lt;dd&gt;1/1500&lt;/dd&gt;
+  &lt;dd&gt;1/1000&lt;/dd&gt;
   &lt;dt&gt;ISO&lt;/dt&gt;
-  &lt;dd&gt;100&lt;/dd&gt;
+  &lt;dd&gt;320&lt;/dd&gt;
 &lt;/dl&gt;
 </description>
         <pubDate>Thu, 11 Aug 2016 09:30:00 -0600</pubDate>
         <link>http://antirobot.com/2016/08/11/023.html</link>
         <guid isPermaLink="true">http://antirobot.com/2016/08/11/023.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Antirobot 022 - Trains and Birds</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/photos/022.jpg&quot; alt=&quot;022 - Trains and Birds&quot; /&gt;&lt;/p&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;Camera&lt;/dt&gt;
-  &lt;dd&gt;Leica M8&lt;/dd&gt;
-  &lt;dt&gt;Lens&lt;/dt&gt;
-  &lt;dd&gt;50mm&lt;/dd&gt;
-  &lt;dt&gt;Aperture&lt;/dt&gt;
-  &lt;dd&gt;f5.6&lt;/dd&gt;
-  &lt;dt&gt;Shutter&lt;/dt&gt;
-  &lt;dd&gt;1/1500&lt;/dd&gt;
-  &lt;dt&gt;ISO&lt;/dt&gt;
-  &lt;dd&gt;100&lt;/dd&gt;
-&lt;/dl&gt;
-</description>
-        <pubDate>Tue, 09 Aug 2016 10:30:00 -0600</pubDate>
-        <link>http://antirobot.com/2016/08/09/022.html</link>
-        <guid isPermaLink="true">http://antirobot.com/2016/08/09/022.html</guid>
         
         
       </item>
