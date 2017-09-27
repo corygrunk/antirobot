@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Antirobot 011 - Parking Lot"
+title:  011 - Parking Lot"
 description: "Antirobot is Cory Grunkemeyer's photo blog."
 date:   2016-03-30 9:29:05 -0600
 ---

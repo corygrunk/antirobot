@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Antirobot 027 - Auto Yard"
+title:  027 - Auto Yard"
 description: "Antirobot is Cory Grunkemeyer's photo blog."
 date:   2016-08-31 1:30:00 -0600
 ---

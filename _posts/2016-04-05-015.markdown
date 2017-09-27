@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Antirobot 015 - 6th Ave"
+title:  015 - 6th Ave"
 description: "Antirobot is Cory Grunkemeyer's photo blog."
 date:   2016-04-05 10:12:00 -0600
 ---

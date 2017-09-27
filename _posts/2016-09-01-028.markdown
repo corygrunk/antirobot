@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Antirobot 028 - Flower"
+title:  028 - Flower"
 description: "Antirobot is Cory Grunkemeyer's photo blog."
 date:   2016-09-01 1:30:00 -0600
 ---
