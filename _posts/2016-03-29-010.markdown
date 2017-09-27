@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  010 - Smudge"
+title:  "010 - Smudge"
 description: "Antirobot is Cory Grunkemeyer's photo blog."
 date:   2016-03-29 15:11:05 -0600
 ---

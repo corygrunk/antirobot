@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  021 - Bus Stop"
+title:  "021 - Bus Stop"
 description: "Antirobot is Cory Grunkemeyer's photo blog."
 date:   2016-04-27 14:30:00 -0600
 ---

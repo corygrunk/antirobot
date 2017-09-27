@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  009 - Wallride"
+title:  "009 - Wallride"
 description: "Antirobot is Cory Grunkemeyer's photo blog."
 date:   2016-03-28 9:29:05 -0600
 ---

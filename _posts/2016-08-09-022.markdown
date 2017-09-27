@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  022 - Trains and Birds"
+title:  "022 - Trains and Birds"
 description: "Antirobot is Cory Grunkemeyer's photo blog."
 date:   2016-08-09 10:30:00 -0600
 ---

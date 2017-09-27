@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  014 - Truck"
+title:  "014 - Truck"
 description: "Antirobot is Cory Grunkemeyer's photo blog."
 date:   2016-04-04 10:07:00 -0600
 ---

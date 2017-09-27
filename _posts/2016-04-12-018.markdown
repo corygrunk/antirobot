@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  018 - Run"
+title:  "018 - Run"
 description: "Antirobot is Cory Grunkemeyer's photo blog."
 date:   2016-04-12 09:44:00 -0600
 ---
