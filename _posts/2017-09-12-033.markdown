@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Antirobot 033 - SF Trucks"
+description: "Antirobot is Cory Grunkemeyer's photo blog."
+date:   2017-09-12 11:30:00 -0600
+---
+
+![032 - Doritos](/photos/033.jpg)
+
+Camera
+: {% exiftag model, photos, 033.jpg %}
+
+Lens
+: {% exiftag focal_length.to_f, photos, 033.jpg %}mm
+
+Aperture
+: f{% exiftag f_number.to_f, photos, 033.jpg %}
+
+Shutter
+: {% exiftag exposure_time.to_s, photos, 033.jpg %}
+
+ISO
+: {% exiftag iso_speed_ratings, photos, 033.jpg %}

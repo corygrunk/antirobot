@@ -6,9 +6,33 @@
 </description>
     <link>http://antirobot.com/</link>
     <atom:link href="http://antirobot.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 19 Sep 2016 14:18:23 -0600</pubDate>
-    <lastBuildDate>Mon, 19 Sep 2016 14:18:23 -0600</lastBuildDate>
-    <generator>Jekyll v3.1.2</generator>
+    <pubDate>Wed, 27 Sep 2017 13:12:52 -0600</pubDate>
+    <lastBuildDate>Wed, 27 Sep 2017 13:12:52 -0600</lastBuildDate>
+    <generator>Jekyll v3.0.3</generator>
+    
+      <item>
+        <title>Antirobot 033 - SF Trucks</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/photos/033.jpg&quot; alt=&quot;032 - Doritos&quot; /&gt;&lt;/p&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;Camera&lt;/dt&gt;
+  &lt;dd&gt;iPhone 6s&lt;/dd&gt;
+  &lt;dt&gt;Lens&lt;/dt&gt;
+  &lt;dd&gt;4.15mm&lt;/dd&gt;
+  &lt;dt&gt;Aperture&lt;/dt&gt;
+  &lt;dd&gt;f2.2&lt;/dd&gt;
+  &lt;dt&gt;Shutter&lt;/dt&gt;
+  &lt;dd&gt;1/460&lt;/dd&gt;
+  &lt;dt&gt;ISO&lt;/dt&gt;
+  &lt;dd&gt;25&lt;/dd&gt;
+&lt;/dl&gt;
+</description>
+        <pubDate>Tue, 12 Sep 2017 11:30:00 -0600</pubDate>
+        <link>http://antirobot.com/2017/09/12/033.html</link>
+        <guid isPermaLink="true">http://antirobot.com/2017/09/12/033.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Antirobot 032 - Doritos</title>
@@ -222,30 +246,6 @@
         <pubDate>Mon, 15 Aug 2016 12:30:00 -0600</pubDate>
         <link>http://antirobot.com/2016/08/15/024.html</link>
         <guid isPermaLink="true">http://antirobot.com/2016/08/15/024.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Antirobot 023 - Town Liquor</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/photos/023.jpg&quot; alt=&quot;023 - Town Liquor&quot; /&gt;&lt;/p&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;Camera&lt;/dt&gt;
-  &lt;dd&gt;M8 Digital Camera&lt;/dd&gt;
-  &lt;dt&gt;Lens&lt;/dt&gt;
-  &lt;dd&gt;50.0mm&lt;/dd&gt;
-  &lt;dt&gt;Aperture&lt;/dt&gt;
-  &lt;dd&gt;f8.0&lt;/dd&gt;
-  &lt;dt&gt;Shutter&lt;/dt&gt;
-  &lt;dd&gt;1/1000&lt;/dd&gt;
-  &lt;dt&gt;ISO&lt;/dt&gt;
-  &lt;dd&gt;320&lt;/dd&gt;
-&lt;/dl&gt;
-</description>
-        <pubDate>Thu, 11 Aug 2016 09:30:00 -0600</pubDate>
-        <link>http://antirobot.com/2016/08/11/023.html</link>
-        <guid isPermaLink="true">http://antirobot.com/2016/08/11/023.html</guid>
         
         
       </item>

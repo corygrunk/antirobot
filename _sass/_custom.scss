@@ -9,8 +9,7 @@ html {
       padding: 0 20px;
     }
     .site-header {
-      background-color: #FFF;
-      border-top: 2px solid darken($maincolor, 20%);
+      border-top: 4px solid darken($maincolor, 20%);
       border-bottom: none;
       min-height: 20px;
       a:hover {
@@ -18,11 +17,11 @@ html {
         color: $maincolor;
       }
       .site-title {
-        color: #ccc;
+        color: #777;
         font-size: 26px;
         font-weight: 600;
         &:visited {
-          color: #ccc;
+          color: #777;
         }
         &:hover {
           color: $maincolor;
@@ -149,6 +148,7 @@ html {
         img {
           width: 100%;
           height: auto;
+          border: 1px solid #ccc;
         }
       }
     }
