@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "019 - Flower"
+description: "Antirobot is Cory Grunkemeyer's photo blog."
+date:   2016-09-01 1:30:00 -0600
+---
+
+![019 - Flower](/photos/019.jpg)
+
+Camera
+: {% exiftag model, photos, 019.jpg %}
+
+Lens
+: {% exiftag focal_length.to_f, photos, 019.jpg %}mm
+
+Aperture
+: f{% exiftag f_number.to_f, photos, 019.jpg %}
+
+Shutter
+: {% exiftag exposure_time.to_s, photos, 019.jpg %}
+
+ISO
+: {% exiftag iso_speed_ratings, photos, 019.jpg %}

@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "007 - Drive"
+description: "Antirobot is Cory Grunkemeyer's photo blog."
+date:   2016-04-06 21:30:00 -0600
+---
+
+![007 - Drive](/photos/007.jpg)
+
+Camera
+: {% exiftag model, photos, 007.jpg %}
+
+Lens
+: {% exiftag focal_length.to_f, photos, 007.jpg %}mm
+
+Aperture
+: f{% exiftag f_number.to_f, photos, 007.jpg %}
+
+Shutter
+: {% exiftag exposure_time.to_s, photos, 007.jpg %}
+
+ISO
+: {% exiftag iso_speed_ratings, photos, 007.jpg %}

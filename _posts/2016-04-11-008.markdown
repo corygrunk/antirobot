@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "008 - Neighborhood"
+description: "Antirobot is Cory Grunkemeyer's photo blog."
+date:   2016-04-11 09:20:00 -0600
+---
+
+![008 - Neighborhood](/photos/008.jpg)
+
+Camera
+: {% exiftag model, photos, 008.jpg %}
+
+Lens
+: {% exiftag focal_length.to_f, photos, 008.jpg %}mm
+
+Aperture
+: f{% exiftag f_number.to_f, photos, 008.jpg %}
+
+Shutter
+: {% exiftag exposure_time.to_s, photos, 008.jpg %}
+
+ISO
+: {% exiftag iso_speed_ratings, photos, 008.jpg %}

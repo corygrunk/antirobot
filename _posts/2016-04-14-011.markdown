@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "011 - City Park Before the Storm"
+description: "Antirobot is Cory Grunkemeyer's photo blog."
+date:   2016-04-14 09:00:00 -0600
+---
+
+![011 - City Park Before the Storm](/photos/011.jpg)
+
+Camera
+: {% exiftag model, photos, 011.jpg %}
+
+Lens
+: {% exiftag focal_length.to_f, photos, 011.jpg %}mm
+
+Aperture
+: f{% exiftag f_number.to_f, photos, 011.jpg %}
+
+Shutter
+: {% exiftag exposure_time.to_s, photos, 011.jpg %}
+
+ISO
+: {% exiftag iso_speed_ratings, photos, 011.jpg %}

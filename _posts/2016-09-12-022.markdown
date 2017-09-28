@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "022 - Wyoming"
+description: "Antirobot is Cory Grunkemeyer's photo blog."
+date:   2016-09-12 11:30:00 -0600
+---
+
+![022 - Wyoming](/photos/022.jpg)
+
+Camera
+: {% exiftag model, photos, 022.jpg %}
+
+Lens
+: {% exiftag focal_length.to_f, photos, 022.jpg %}mm
+
+Aperture
+: f{% exiftag f_number.to_f, photos, 022.jpg %}
+
+Shutter
+: {% exiftag exposure_time.to_s, photos, 022.jpg %}
+
+ISO
+: {% exiftag iso_speed_ratings, photos, 022.jpg %}

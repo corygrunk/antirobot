@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "015 - Field"
+description: "Antirobot is Cory Grunkemeyer's photo blog."
+date:   2016-08-15 12:30:00 -0600
+---
+
+![015 - Field](/photos/015.jpg)
+
+Camera
+: {% exiftag model, photos, 015.jpg %}
+
+Lens
+: {% exiftag focal_length.to_f, photos, 015.jpg %}mm
+
+Aperture
+: f{% exiftag f_number.to_f, photos, 015.jpg %}
+
+Shutter
+: {% exiftag exposure_time.to_s, photos, 015.jpg %}
+
+ISO
+: {% exiftag iso_speed_ratings, photos, 015.jpg %}

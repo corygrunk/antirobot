@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "018 - Auto Yard"
+description: "Antirobot is Cory Grunkemeyer's photo blog."
+date:   2016-08-31 1:30:00 -0600
+---
+
+![018 - Auto Yard](/photos/018.jpg)
+
+Camera
+: {% exiftag model, photos, 018.jpg %}
+
+Lens
+: {% exiftag focal_length.to_f, photos, 018.jpg %}mm
+
+Aperture
+: f{% exiftag f_number.to_f, photos, 018.jpg %}
+
+Shutter
+: {% exiftag exposure_time.to_s, photos, 018.jpg %}
+
+ISO
+: {% exiftag iso_speed_ratings, photos, 018.jpg %}

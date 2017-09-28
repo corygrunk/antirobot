@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "016 - Stop-N-Shop"
+description: "Antirobot is Cory Grunkemeyer's photo blog."
+date:   2016-08-29 12:30:00 -0600
+---
+
+![016 - Stop-N-Shop](/photos/016.jpg)
+
+Camera
+: {% exiftag model, photos, 016.jpg %}
+
+Lens
+: {% exiftag focal_length.to_f, photos, 016.jpg %}mm
+
+Aperture
+: f{% exiftag f_number.to_f, photos, 016.jpg %}
+
+Shutter
+: {% exiftag exposure_time.to_s, photos, 016.jpg %}
+
+ISO
+: {% exiftag iso_speed_ratings, photos, 016.jpg %}
