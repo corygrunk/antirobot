@@ -130,6 +130,18 @@ pre {
   .icon > svg path {
     fill: #828282; }
 
+html body.shutdown {
+  padding: 100px;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace; }
+  html body.shutdown h1 {
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    display: inline-block; }
+  html body.shutdown p {
+    font-size: 14px;
+    display: inline-block; }
 html body .wrapper {
   margin: 0 auto;
   text-align: center;
