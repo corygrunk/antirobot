@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "024 - SF Trucks"
+description: "Antirobot is Cory Grunkemeyer's photo blog."
+date:   2017-09-12 11:30:00 -0600
+---
+
+![024 - SF Trucks](/photos/024.jpg)
+
+Camera
+: {% exiftag model, photos, 024.jpg %}
+
+Lens
+: {% exiftag focal_length.to_f, photos, 024.jpg %}mm
+
+Aperture
+: f{% exiftag f_number.to_f, photos, 024.jpg %}
+
+Shutter
+: {% exiftag exposure_time.to_s, photos, 024.jpg %}
+
+ISO
+: {% exiftag iso_speed_ratings, photos, 024.jpg %}

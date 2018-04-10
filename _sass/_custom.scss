@@ -2,21 +2,6 @@ $maincolor: #5AC2CE;
 
 html {
   body {
-    &.shutdown {
-      padding: 100px;
-      text-align: center;
-      font-family: 'Courier New', Courier, monospace;
-      h1 {
-        font-size: 14px;
-        font-weight: bold;
-        text-align: center;
-        display: inline-block;
-      }
-      p {
-        font-size: 14px;
-        display: inline-block;
-      }
-    }
     .wrapper {
       margin: 0 auto;
       text-align: center;

@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "027 - Color Pallets"
+description: "Antirobot is Cory Grunkemeyer's photo blog."
+date:   2017-10-23 11:00:00 -0600
+---
+
+![027 - Color Pallets](/photos/027.jpg)
+
+Camera
+: {% exiftag model, photos, 027.jpg %}
+
+Lens
+: {% exiftag focal_length.to_f, photos, 027.jpg %}mm
+
+Aperture
+: f{% exiftag f_number.to_f, photos, 027.jpg %}
+
+Shutter
+: {% exiftag exposure_time.to_s, photos, 027.jpg %}
+
+ISO
+: {% exiftag iso_speed_ratings, photos, 027.jpg %}

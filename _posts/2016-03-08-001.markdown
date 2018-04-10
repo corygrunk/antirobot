@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "001 - Storm"
+description: "Antirobot is Cory Grunkemeyer's photo blog."
+date:   2016-03-08 10:20:05 -0600
+---
+
+![001 - Storm](/photos/001.jpg)
+
+Camera
+: {% exiftag model, photos, 001.jpg %}
+
+Lens
+: {% exiftag focal_length.to_f, photos, 001.jpg %}mm
+
+Aperture
+: f{% exiftag f_number.to_f, photos, 001.jpg %}
+
+Shutter
+: {% exiftag exposure_time.to_s, photos, 001.jpg %}
+
+ISO
+: {% exiftag iso_speed_ratings, photos, 001.jpg %}
