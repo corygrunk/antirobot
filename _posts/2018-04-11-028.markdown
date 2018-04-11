@@ -5,7 +5,7 @@ description: "Antirobot is Cory Grunkemeyer's photo blog."
 date:   2018-04-11 9:00:00 -0600
 ---
 
-![028 - Wellington](/photos/028.jpg)
+![028 - Wellington]({{ site.url }}/photos/028.jpg)
 
 Camera
 : {% exiftag model, photos, 028.jpg %}

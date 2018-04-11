@@ -5,7 +5,7 @@ description: "Antirobot is Cory Grunkemeyer's photo blog."
 date:   2016-03-31 13:11:05 -0600
 ---
 
-![005 - Arrows](/photos/005.jpg)
+![005 - Arrows]({{ site.url }}/photos/005.jpg)
 
 Camera
 : Lomo LC-A

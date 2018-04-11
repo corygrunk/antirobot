@@ -5,7 +5,7 @@ description: "Antirobot is Cory Grunkemeyer's photo blog."
 date:   2016-03-08 10:20:05 -0600
 ---
 
-![001 - Storm](/photos/001.jpg)
+![001 - Storm]({{ site.url }}/photos/001.jpg)
 
 Camera
 : {% exiftag model, photos, 001.jpg %}

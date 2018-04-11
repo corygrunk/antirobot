@@ -5,7 +5,7 @@ description: "Antirobot is Cory Grunkemeyer's photo blog."
 date:   2016-03-30 9:29:05 -0600
 ---
 
-![004 - Parking Lot](/photos/004.jpg)
+![004 - Parking Lot]({{ site.url }}/photos/004.jpg)
 
 Camera
 : Contax T2

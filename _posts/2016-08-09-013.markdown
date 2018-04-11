@@ -5,7 +5,7 @@ description: "Antirobot is Cory Grunkemeyer's photo blog."
 date:   2016-08-09 10:30:00 -0600
 ---
 
-![013 - Trains and Birds](/photos/013.jpg)
+![013 - Trains and Birds]({{ site.url }}/photos/013.jpg)
 
 Camera
 : {% exiftag model, photos, 013.jpg %}

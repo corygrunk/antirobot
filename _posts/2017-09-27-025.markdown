@@ -5,7 +5,7 @@ description: "Antirobot is Cory Grunkemeyer's photo blog."
 date:   2017-09-12 11:30:00 -0600
 ---
 
-![025 - Parkway Cleaners](/photos/025.jpg)
+![025 - Parkway Cleaners]({{ site.url }}/photos/025.jpg)
 
 Camera
 : {% exiftag model, photos, 025.jpg %}

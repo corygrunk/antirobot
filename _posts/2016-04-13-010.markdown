@@ -5,7 +5,7 @@ description: "Antirobot is Cory Grunkemeyer's photo blog."
 date:   2016-04-13 12:30:00 -0600
 ---
 
-![010 - Bill's Auto Service](/photos/010.jpg)
+![010 - Bill's Auto Service]({{ site.url }}/photos/010.jpg)
 
 Camera
 : {% exiftag model, photos, 010.jpg %}

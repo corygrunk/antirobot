@@ -5,7 +5,7 @@ description: "Antirobot is Cory Grunkemeyer's photo blog."
 date:   2016-08-30 2:30:00 -0600
 ---
 
-![017 - Trailers and Telephone Poles](/photos/017.jpg)
+![017 - Trailers and Telephone Poles]({{ site.url }}/photos/017.jpg)
 
 Camera
 : {% exiftag model, photos, 017.jpg %}
