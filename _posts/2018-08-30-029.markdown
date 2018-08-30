@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "029 - Window"
+description: "Antirobot is Cory Grunkemeyer's photo blog."
+date:   2018-08-30 9:00:00 -0600
+---
+
+![029 - Window]({{ site.url }}/photos/029.jpg)
+
+Camera
+: {% exiftag model, photos, 029.jpg %}
+
+Lens
+: {% exiftag focal_length.to_f, photos, 029.jpg %}mm
+
+Aperture
+: f{% exiftag f_number.to_f, photos, 029.jpg %}
+
+Shutter
+: {% exiftag exposure_time.to_s, photos, 029.jpg %}
+
+ISO
+: {% exiftag iso_speed_ratings, photos, 029.jpg %}
